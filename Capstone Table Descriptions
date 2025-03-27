@@ -1,0 +1,11 @@
+Capstone Data Overview 
+
+sss_by_state: Sea surface salinity by state
+
+sst_by_state: Sea surace temperature by state
+
+sst_sss: Sea surface salinity x sea surface temperature with state (Combination of the first two)
+
+Vibrio_vul_sst_sss: Vibrio outbreaks x salinilty x temperature 
+
+vv_occurances: BEAM Dashboard 
