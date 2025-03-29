@@ -3,7 +3,7 @@
 #for this project date range was modified to (1990-01-01)-(2024-12-01) and region to Eastern US 
 #data was the downloaded 
 
-#jupyter notebook of the preprocessing steps 
+## jupyter notebook
 import pandas as pd
 df=pd.read_csv("/Users/danielaramos/Downloads/sst_eastcoast_gulf_1990_2024.csv")
 print(df)
