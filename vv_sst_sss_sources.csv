@@ -1,4 +1,4 @@
-"lat","standard_longitude","sss","sst","Month","Year","state_name","Pathogen","Serotype_Species","Number_of_isolates","Source"
+lat,standard_longitude,sss,sst,Month,Year,state_name,Pathogen,Serotype_Species","Number_of_isolates","Source"
 27.375,-96.375,31.979038,28.909,6,2019,"Texas","Vibrio","vulnificus","4","Other"
 27.375,-96.375,31.979038,28.909,6,2019,"Texas","Vibrio","vulnificus","6","Blood"
 27.625,-95.375,33.23805,25.290646,5,2019,"Texas","Vibrio","vulnificus","3","Other"
