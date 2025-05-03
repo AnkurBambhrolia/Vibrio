@@ -12,7 +12,9 @@ We used tools such as Python (Google Colab), MySQL, and Power BI to clean, analy
 
 - 📄 **[Final Report (PDF)](./Vibrio_Vulnificus_Research_Paper.pdf)** — A comprehensive written analysis  
 - 📊 **[Power BI Dashboard](./Vibrio_Dashboard.pbix)** — Visual exploration of trends, correlations, and forecasts  
-- 📽️ **Video Presentation** — Coming soon  
+- 📽️ **[Research Presentation](https://youtu.be/usGh6bckTsk)** — A presentation of our journey into Vibrio Vulnificus and ecoinformatics
+- 🎬 **[Download the Presentation Video (MP4)](./Vibrio_Final_Research_Presentation.mp4)** — Download link for the Research presentaion (88.9 MB)
+
 
 ---
 
